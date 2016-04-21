@@ -1,2 +1,5 @@
-# hello-world
-Demo usando github
+# Estados de una notificación.
+[R] Reportado
+[E] Enterado
+[I] Intervenido
+[C] Cancelado
